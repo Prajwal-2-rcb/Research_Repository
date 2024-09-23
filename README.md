@@ -59,7 +59,7 @@ Clone the repository:
 Copy code
 git clone https://github.com/yourusername/research-repository.git
 Navigate to the project directory and install dependencies:
-bash
+
 Copy code
 pip install -r requirements.txt
 Set up the database and run migrations:
