@@ -1,5 +1,7 @@
 Research Repository
 
+https://github.com/Prajwal-2-rcb/Research_Repository/blob/adba3cf05d5fdbdbb6ad721e620d29fe8efb1722/home.png
+
 
 Research Repository is a robust web application built using Django that allows users to upload, manage, and download research papers. It serves as a centralized platform for researchers, students, and academics to share their work, access scholarly papers, and manage their profiles. The project includes essential features for seamless research management while providing an intuitive user interface and administrative capabilities.
 
@@ -68,5 +70,5 @@ python manage.py migrate
 
 python manage.py runserver
 
-https://github.com/Prajwal-2-rcb/Research_Repository/blob/adba3cf05d5fdbdbb6ad721e620d29fe8efb1722/home.png
+
 
