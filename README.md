@@ -1,4 +1,6 @@
 Research Repository
+
+
 Research Repository is a robust web application built using Django that allows users to upload, manage, and download research papers. It serves as a centralized platform for researchers, students, and academics to share their work, access scholarly papers, and manage their profiles. The project includes essential features for seamless research management while providing an intuitive user interface and administrative capabilities.
 
 Key Features
