@@ -57,21 +57,14 @@ Setup Instructions
 Clone the repository:
 
 Copy code
-git clone https://github.com/yourusername/research-repository.git
+git clone (https://github.com/Prajwal-2-rcb/Research_Repository.git)
 Navigate to the project directory and install dependencies:
 
-Copy code
-pip install -r requirements.txt
-Set up the database and run migrations:
-bash
-Copy code
+cd myproject
+
+python manage.py makemigartions
+
 python manage.py migrate
-Create a superuser for accessing the admin panel:
-bash
-Copy code
-python manage.py createsuperuser
-Run the server:
-bash
-Copy code
+
 python manage.py runserver
 
