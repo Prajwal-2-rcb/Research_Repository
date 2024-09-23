@@ -68,3 +68,5 @@ python manage.py migrate
 
 python manage.py runserver
 
+https://github.com/Prajwal-2-rcb/Research_Repository/blob/adba3cf05d5fdbdbb6ad721e620d29fe8efb1722/home.png
+
